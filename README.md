@@ -23,7 +23,7 @@ Only relevant parameters are:
 
 - AGAINST_CLASS_1 (T/F, Iris classes are 3, thereore it asks you if you want class 0 to be checked and classified against class 1 or against class 2)
 
-- divisorpower (it is a function of the number of columns [features] in the dataframe... ~0.13 x the number of columns... no need to play with it in this stage)
+- divisorpower [NO NEED TO CHANGE IT] (it is a function of the number of columns [features] in the dataframe... ~0.13 x the number of columns... no need to play with it in this stage)
 
 - REAL_DEVICE (True if you want to run on ibm real quantum machine... I use a token.txt after registration in https://quantum-computing.ibm.com/).
 
