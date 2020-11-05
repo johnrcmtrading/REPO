@@ -15,6 +15,7 @@ I commented as much I can and the aim of the algo is to classify each sample inp
 
 
 # STRUCTURE
+'Qperceptron_iriscomm' is the main file.
 Library 'DB_iris.py' creates/distributes the classes and 'Qperceptron_iriscomm.py' tells you 'same class' or 'different class' after measurement over 3 qubits. The manipulation of the qubits is my personal variation of QFT algos.
 
 
