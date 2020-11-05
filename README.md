@@ -1,3 +1,6 @@
+It is my intellectual property, if you want to use it you are bound to let me know the purpose (simoneambrogio80@gmail.com).
+
+
 # Qiskit-Perceptron-iris-DB-set-
 It binary classifies after shuffling, without training.
 
