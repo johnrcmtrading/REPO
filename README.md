@@ -6,7 +6,7 @@ It binary classifies after shuffling, without training.
 
 
 # REQUIREMENTS
-I used IMB Qiskit Library for Python 3.6.
+I used Qiskit Library for Python 3.6.
 
 
 # PURPOSE
